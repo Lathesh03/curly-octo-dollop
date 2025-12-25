@@ -8,7 +8,7 @@
 * **Package Manager:** Helm
 
 ## 📸 Proof of Implementation
-![Grafana Dashboard]
+Grafana Dashboard
 
 ![CPU_Utilisation_Grafana](https://github.com/user-attachments/assets/db8c0f96-bec7-4d6a-ab6b-0f87e84c6713)
 
