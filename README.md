@@ -1,4 +1,4 @@
-# 📊 Kubernetes Observability Stack (Project 3)
+# 📊 Kubernetes Observability Stack
 
 ## Architecture
 * **Platform:** AWS EKS (Managed Kubernetes)
